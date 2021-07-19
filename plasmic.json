@@ -1,0 +1,324 @@
+{
+  "platform": "react",
+  "code": {
+    "lang": "js",
+    "scheme": "blackbox",
+    "reactRuntime": "classic"
+  },
+  "style": {
+    "scheme": "css-modules",
+    "defaultStyleCssFilePath": "plasmic/plasmic__default_style.module.css"
+  },
+  "images": {
+    "scheme": "files",
+    "publicDir": "../../public",
+    "publicUrlPrefix": "/static/"
+  },
+  "tokens": {
+    "scheme": "theo",
+    "tokensFilePath": "plasmic-tokens.theo.json"
+  },
+  "srcDir": "src/components",
+  "defaultPlasmicDir": "./plasmic",
+  "projects": [
+    {
+      "projectId": "oM7mEe9Xo1g12sHvYsN6tA",
+      "projectName": "Blank project",
+      "version": "latest",
+      "cssFilePath": "plasmic/blank_project/plasmic_blank_project.module.css",
+      "components": [
+        {
+          "id": "vH_5Lyj9Xrc4",
+          "name": "Homepage",
+          "type": "managed",
+          "projectId": "oM7mEe9Xo1g12sHvYsN6tA",
+          "renderModuleFilePath": "plasmic/blank_project/PlasmicHomepage.jsx",
+          "importSpec": {
+            "modulePath": "Homepage.jsx"
+          },
+          "cssFilePath": "plasmic/blank_project/PlasmicHomepage.module.css",
+          "scheme": "blackbox",
+          "componentType": "page"
+        }
+      ],
+      "icons": [
+        {
+          "id": "NCiNMwXSfKC",
+          "name": "Group2Icon",
+          "moduleFilePath": "plasmic/blank_project/icons/PlasmicIcon__Group2.jsx"
+        },
+        {
+          "id": "Nkhn6UHRGMz",
+          "name": "Group3Icon",
+          "moduleFilePath": "plasmic/blank_project/icons/PlasmicIcon__Group3.jsx"
+        },
+        {
+          "id": "gXiU-v5ixyo",
+          "name": "Group4Icon",
+          "moduleFilePath": "plasmic/blank_project/icons/PlasmicIcon__Group4.jsx"
+        },
+        {
+          "id": "SO6jlrykNxP",
+          "name": "Group5Icon",
+          "moduleFilePath": "plasmic/blank_project/icons/PlasmicIcon__Group5.jsx"
+        },
+        {
+          "id": "UaE4dySt3NJ",
+          "name": "Group6Icon",
+          "moduleFilePath": "plasmic/blank_project/icons/PlasmicIcon__Group6.jsx"
+        },
+        {
+          "id": "m7wvng5A-U6",
+          "name": "Group7Icon",
+          "moduleFilePath": "plasmic/blank_project/icons/PlasmicIcon__Group7.jsx"
+        },
+        {
+          "id": "YEpZn5nU5",
+          "name": "Group8Icon",
+          "moduleFilePath": "plasmic/blank_project/icons/PlasmicIcon__Group8.jsx"
+        },
+        {
+          "id": "VT4146Rjck",
+          "name": "Group9Icon",
+          "moduleFilePath": "plasmic/blank_project/icons/PlasmicIcon__Group9.jsx"
+        },
+        {
+          "id": "dpIG4F6oa-",
+          "name": "Group10Icon",
+          "moduleFilePath": "plasmic/blank_project/icons/PlasmicIcon__Group10.jsx"
+        },
+        {
+          "id": "I51bxJL16DN",
+          "name": "Group11Icon",
+          "moduleFilePath": "plasmic/blank_project/icons/PlasmicIcon__Group11.jsx"
+        },
+        {
+          "id": "1EUf_Lzadc6",
+          "name": "Group12Icon",
+          "moduleFilePath": "plasmic/blank_project/icons/PlasmicIcon__Group12.jsx"
+        },
+        {
+          "id": "ryoOpZihw2_",
+          "name": "Group13Icon",
+          "moduleFilePath": "plasmic/blank_project/icons/PlasmicIcon__Group13.jsx"
+        },
+        {
+          "id": "1QFkdwxjPQO",
+          "name": "Group14Icon",
+          "moduleFilePath": "plasmic/blank_project/icons/PlasmicIcon__Group14.jsx"
+        },
+        {
+          "id": "TOwgz9954Fj",
+          "name": "Group15Icon",
+          "moduleFilePath": "plasmic/blank_project/icons/PlasmicIcon__Group15.jsx"
+        },
+        {
+          "id": "eSkPnbMyuNT",
+          "name": "Group16Icon",
+          "moduleFilePath": "plasmic/blank_project/icons/PlasmicIcon__Group16.jsx"
+        },
+        {
+          "id": "Cmzzw8Ce3L4",
+          "name": "Group17Icon",
+          "moduleFilePath": "plasmic/blank_project/icons/PlasmicIcon__Group17.jsx"
+        },
+        {
+          "id": "d0mdRLf_3Gu",
+          "name": "Group18Icon",
+          "moduleFilePath": "plasmic/blank_project/icons/PlasmicIcon__Group18.jsx"
+        },
+        {
+          "id": "8bOmfC0duz0",
+          "name": "Group19Icon",
+          "moduleFilePath": "plasmic/blank_project/icons/PlasmicIcon__Group19.jsx"
+        },
+        {
+          "id": "GI4VPNZGHD1",
+          "name": "Group20Icon",
+          "moduleFilePath": "plasmic/blank_project/icons/PlasmicIcon__Group20.jsx"
+        },
+        {
+          "id": "bK58OKgWLXE",
+          "name": "Group21Icon",
+          "moduleFilePath": "plasmic/blank_project/icons/PlasmicIcon__Group21.jsx"
+        },
+        {
+          "id": "jHQkLZvsQyu",
+          "name": "EssentialIconsChevronDownIcon",
+          "moduleFilePath": "plasmic/blank_project/icons/PlasmicIcon__EssentialIconsChevronDown.jsx"
+        },
+        {
+          "id": "xI9gvpRFHcs",
+          "name": "Group22Icon",
+          "moduleFilePath": "plasmic/blank_project/icons/PlasmicIcon__Group22.jsx"
+        },
+        {
+          "id": "IqfxaSRDTo8",
+          "name": "Group23Icon",
+          "moduleFilePath": "plasmic/blank_project/icons/PlasmicIcon__Group23.jsx"
+        },
+        {
+          "id": "LgJgIHvoCVc",
+          "name": "G17Icon",
+          "moduleFilePath": "plasmic/blank_project/icons/PlasmicIcon__G17.jsx"
+        },
+        {
+          "id": "A91Z1ASCSAY",
+          "name": "Path23Icon",
+          "moduleFilePath": "plasmic/blank_project/icons/PlasmicIcon__Path23.jsx"
+        },
+        {
+          "id": "io3BtzfqsAD",
+          "name": "ArrowNavIcon",
+          "moduleFilePath": "plasmic/blank_project/icons/PlasmicIcon__ArrowNav.jsx"
+        },
+        {
+          "id": "WPLBF3csAbK",
+          "name": "TestimonialsIcon",
+          "moduleFilePath": "plasmic/blank_project/icons/PlasmicIcon__Testimonials.jsx"
+        },
+        {
+          "id": "5rCKl1UC1wE",
+          "name": "Group30Icon",
+          "moduleFilePath": "plasmic/blank_project/icons/PlasmicIcon__Group30.jsx"
+        },
+        {
+          "id": "bl_25OmdUOG",
+          "name": "Group31Icon",
+          "moduleFilePath": "plasmic/blank_project/icons/PlasmicIcon__Group31.jsx"
+        },
+        {
+          "id": "5eLipIN7s_Gb",
+          "name": "EssentialIconsRightArrowIcon",
+          "moduleFilePath": "plasmic/blank_project/icons/PlasmicIcon__EssentialIconsRightArrow.jsx"
+        }
+      ],
+      "images": [
+        {
+          "id": "EgSjfvauM",
+          "name": "Screen",
+          "filePath": "plasmic/blank_project/images/screen.png"
+        },
+        {
+          "id": "Ny1bY8tmfg",
+          "name": "iPhone X",
+          "filePath": "plasmic/blank_project/images/iPhoneX.png"
+        },
+        {
+          "id": "wVCWlSTTcL",
+          "name": "Background",
+          "filePath": "plasmic/blank_project/images/background.svg"
+        },
+        {
+          "id": "XBN8uL4KcM",
+          "name": "artwork",
+          "filePath": "plasmic/blank_project/images/artwork.svg"
+        },
+        {
+          "id": "8hMIGFnQtAq",
+          "name": "Group",
+          "filePath": "plasmic/blank_project/images/group.svg"
+        },
+        {
+          "id": "rMT5tYPX3Qn",
+          "name": "Divider",
+          "filePath": "plasmic/blank_project/images/divider.svg"
+        },
+        {
+          "id": "Zlb9pxBcFVV",
+          "name": "Airbnb Logo",
+          "filePath": "plasmic/blank_project/images/airbnbLogo.svg"
+        },
+        {
+          "id": "Nhxh-iZG8Ag",
+          "name": "Google Logo",
+          "filePath": "plasmic/blank_project/images/googleLogo.svg"
+        },
+        {
+          "id": "C7sKDpmRAtB",
+          "name": "Microsoft Logo",
+          "filePath": "plasmic/blank_project/images/microsoftLogo.svg"
+        },
+        {
+          "id": "CcQhsLhX7WE",
+          "name": "Walmart Logo",
+          "filePath": "plasmic/blank_project/images/walmartLogo.svg"
+        },
+        {
+          "id": "zhi2qLIEGO-",
+          "name": "Divider 2",
+          "filePath": "plasmic/blank_project/images/divider2.svg"
+        },
+        {
+          "id": "moVh_8sAjJ7",
+          "name": "Feature Icons / 01",
+          "filePath": "plasmic/blank_project/images/featureIcons01.svg"
+        },
+        {
+          "id": "sKbL9HjWgFj",
+          "name": "Group 24",
+          "filePath": "plasmic/blank_project/images/group24.svg"
+        },
+        {
+          "id": "-ksXrwg3LkD",
+          "name": "Group 25",
+          "filePath": "plasmic/blank_project/images/group25.svg"
+        },
+        {
+          "id": "7EZaD7B60V1",
+          "name": "Group 26",
+          "filePath": "plasmic/blank_project/images/group26.svg"
+        },
+        {
+          "id": "STFtyct5zTj",
+          "name": "Group 27",
+          "filePath": "plasmic/blank_project/images/group27.svg"
+        },
+        {
+          "id": "lP5q7YPxXPP",
+          "name": "Group 28",
+          "filePath": "plasmic/blank_project/images/group28.svg"
+        },
+        {
+          "id": "18IYceGDRzl",
+          "name": "Quote Mark",
+          "filePath": "plasmic/blank_project/images/quoteMark.svg"
+        },
+        {
+          "id": "55yZ41PX8_x",
+          "name": "Airbnb Logo 2",
+          "filePath": "plasmic/blank_project/images/airbnbLogo2.svg"
+        },
+        {
+          "id": "5WiVzvuFV2P",
+          "name": "Group 29",
+          "filePath": "plasmic/blank_project/images/group29.svg"
+        },
+        {
+          "id": "Jxo5zsv9ZYAA",
+          "name": "Group 32",
+          "filePath": "plasmic/blank_project/images/group32.svg"
+        },
+        {
+          "id": "wKe0q_0uh",
+          "name": "artwork 2",
+          "filePath": "plasmic/blank_project/images/artwork2.svg"
+        }
+      ],
+      "codeComponents": [],
+      "projectApiToken": "NCumpaOTIbeVfq2a1gZqDtGaaP6haNZq7sDahXK5Z1hdqv023Q6lSub4FcJewaW4yTss3qFPisgPKgn6kjKMA"
+    }
+  ],
+  "globalVariants": {
+    "variantGroups": [
+      {
+        "id": "prERNvlf5RTD",
+        "name": "Screen",
+        "projectId": "oM7mEe9Xo1g12sHvYsN6tA",
+        "contextFilePath": "plasmic/blank_project/PlasmicGlobalVariant__Screen.jsx"
+      }
+    ]
+  },
+  "cliVersion": "0.1.157",
+  "$schema": "https://unpkg.com/@plasmicapp/cli@0.1.157/dist/plasmic.schema.json"
+}
